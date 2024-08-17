@@ -2,6 +2,8 @@
 // Blind 75
 // link: https://leetcode.com/problems/contains-duplicate/
 // Arrays, Hash Table
+// Time: O(n)
+// Space: O(n)
 
 /**
  * @param {number[]} nums

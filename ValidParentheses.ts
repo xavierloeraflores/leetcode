@@ -2,6 +2,8 @@
 // Blind 75
 // link: https://leetcode.com/problems/valid-parentheses/
 // Strings, Stack
+// Time: O(n)
+// Space: O(n)
 
 /**
  * @param {string} s
